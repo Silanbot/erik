@@ -3,7 +3,7 @@ from telebot import types
 ref_link = 'https://telegram.me/{}?start={}'
 
 
-bot = telebot.TeleBot('1094270101:AAFmX_kFxgsj-UDI8pUYSchPDFpI4P2kxnQ')
+bot = telebot.TeleBot('1057186464:AAFXhlbsDq02N7GTd3XQZrZGQibDErw_uNQ')
 
 
 
