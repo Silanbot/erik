@@ -12,7 +12,7 @@ config==0.4.2
 credentials==1.1
 cssselect==1.1.0
 Cython==0.29.14
-Django==3.0.2
+Django==3.0.7
 dnspython==1.16.0
 eventlet==0.25.1
 fake-useragent==0.1.11
