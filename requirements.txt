@@ -23,7 +23,7 @@ gunicorn==20.0.4
 html2text==2015.11.4
 idna==2.8
 Jinja2==2.8
-lxml==4.4.2
+lxml==4.6.2
 Markdown==2.6.5
 MarkupSafe==1.1.1
 mongoengine==0.19.1
